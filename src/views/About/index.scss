@@ -1,0 +1,37 @@
+.type-content{
+    margin:50px;
+}
+.type-content>p{
+    margin-left: 50px;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+.center{
+    margin: 20px 70px;
+    background-color: red;
+}
+.Alltype{
+    width: 100%;
+    float: left;
+    border: 1px solid #90c322;
+    margin: 20px 30px 20px 10px
+}
+.type{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #a4abc3;
+}
+.type:last-child{
+    border: none;
+}
+.Alltype p{
+    font-size: 20px;
+}
+.type>span{
+    display: block;
+    margin-bottom: 20px;
+}
+

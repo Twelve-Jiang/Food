@@ -1,0 +1,56 @@
+.list-content{
+    width: 80%;
+    margin: 0 auto;
+}
+.alltitle{
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.ant-pagination li{
+    // float: left;
+    text-align: center;
+}
+.all-center{
+    margin: 20px 70px;
+    background-color: red;
+}
+.Allfood{
+    background-color: red;
+}
+.list{
+    width: 100%;
+    float: left;
+    border: 1px solid #90c322;
+    margin: 20px 30px 20px 10px
+}
+.list-item{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #a4abc3;
+    overflow: hidden;
+}
+.food-text>p{
+    display: block;
+    width: 80%;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.list-item:last-child{
+    border: none;
+}
+.food-text{
+    width: 80%;
+    float: left;
+    margin-top: 20px;
+}
+.list-item>img{
+    float: right;
+    vertical-align: auto;
+}
+.page{
+    text-align: center;
+    margin-bottom: 20px;
+}

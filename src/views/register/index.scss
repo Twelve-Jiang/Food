@@ -1,0 +1,52 @@
+.register-page{
+    width: 100%;
+    height: 100%;
+    background: url('https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3740623136,3662320818&fm=26&gp=0.jpg') no-repeat;
+    background-size: cover;
+}
+.register-box{
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    border-radius: 20px;
+    background-color: rgba(240, 232, 232, 0.5);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+
+}
+.register-form{
+    position: absolute;
+    width: 470px;
+    height: 380px;
+    padding: 15px 35px 0 0 ;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+.input-text{
+    width: 300px;
+}
+.register-form-item{
+    position: relative;
+    float: right;
+}
+.register-form-agreement{
+    position: relative;
+    width: 50%;
+    top: -10px;
+    left: 20px;
+    right: 0;
+    margin: auto;
+}
+.register-form-button{
+    position: relative;
+    width: 90px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
